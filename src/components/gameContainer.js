@@ -1,6 +1,7 @@
 import React from "react";
 import Card from "./card";
 import GameSelector from "./gameSelector";
+import fearless from "../img/fearless.png"
 
 export default class GameContainer extends React.Component {
   constructor(props) {
@@ -8,6 +9,7 @@ export default class GameContainer extends React.Component {
     let urlParams = new URLSearchParams(window.location.search);
     let rows = urlParams.get("rows") || 4;
     let columns = urlParams.get("columns") || 4;
+    rows*columns % 2 && rows ++;
     console.log(rows);
     console.log(columns);
     this.sendResults = this.sendResults.bind(this);
@@ -21,7 +23,7 @@ export default class GameContainer extends React.Component {
       activeCard: null,
       index: null,
       selectedSource: "fearless",
-      backImage: `${window.location}/img/fearless.png`
+      backImage: `${fearless}`
     };
     this.handleClick = this.handleClick.bind(this);
   }
@@ -33,7 +35,7 @@ export default class GameContainer extends React.Component {
   }
 
   setupGame() {
-    fetch(`${window.location}/static/media/${this.state.selectedSource}.json`)
+    fetch(`../static/media/${this.state.selectedSource}.json`)
       .then(response => {
         return response.json();
       })
