@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/ReactMatchingGame/static/css/main.2fca0c46.chunk.css",
-    "main.js": "/ReactMatchingGame/static/js/main.a9cf5afb.chunk.js",
-    "main.js.map": "/ReactMatchingGame/static/js/main.a9cf5afb.chunk.js.map",
+    "main.css": "/ReactMatchingGame/static/css/main.ac654237.chunk.css",
+    "main.js": "/ReactMatchingGame/static/js/main.1edcabde.chunk.js",
+    "main.js.map": "/ReactMatchingGame/static/js/main.1edcabde.chunk.js.map",
     "runtime-main.js": "/ReactMatchingGame/static/js/runtime-main.359dc76c.js",
     "runtime-main.js.map": "/ReactMatchingGame/static/js/runtime-main.359dc76c.js.map",
     "static/css/2.17e5ed98.chunk.css": "/ReactMatchingGame/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.bbf4e34f.chunk.js": "/ReactMatchingGame/static/js/2.bbf4e34f.chunk.js",
-    "static/js/2.bbf4e34f.chunk.js.map": "/ReactMatchingGame/static/js/2.bbf4e34f.chunk.js.map",
+    "static/js/2.fa5e6a55.chunk.js": "/ReactMatchingGame/static/js/2.fa5e6a55.chunk.js",
+    "static/js/2.fa5e6a55.chunk.js.map": "/ReactMatchingGame/static/js/2.fa5e6a55.chunk.js.map",
     "index.html": "/ReactMatchingGame/index.html",
-    "precache-manifest.16b6b1ba5d2db0a09eb4c4ef6b8b3b35.js": "/ReactMatchingGame/precache-manifest.16b6b1ba5d2db0a09eb4c4ef6b8b3b35.js",
+    "precache-manifest.e06f7aef0f2ae252ca46fb8dd70c15ec.js": "/ReactMatchingGame/precache-manifest.e06f7aef0f2ae252ca46fb8dd70c15ec.js",
     "service-worker.js": "/ReactMatchingGame/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/ReactMatchingGame/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.2fca0c46.chunk.css.map": "/ReactMatchingGame/static/css/main.2fca0c46.chunk.css.map",
-    "static/media/logo.svg": "/ReactMatchingGame/static/media/logo.25bf045c.svg"
+    "static/css/main.ac654237.chunk.css.map": "/ReactMatchingGame/static/css/main.ac654237.chunk.css.map"
   }
 }
