@@ -1,5 +1,5 @@
-#root{
-  width:100%
+#root {
+  width: 100%;
 }
 
 * {
@@ -10,58 +10,69 @@
 
 body {
   height: 100vh;
-  display: flex;
   background: #ccc4d5;
+  margin: 1rem;
 }
-
 .memory-game {
-  width: 640px;
-  height: 640px;
-  margin: auto;
-  display: flex;
-  flex-wrap: wrap;
-  perspective: 1000px;
-}
-
-.memory-card {
-  width: calc(25% - 10px);
-  height: calc(25% - 10px);
-  margin: 5px;
-  position: relative;
-  transform: scale(1);
-  transform-style: preserve-3d;
-  transition: transform 1s;
-  box-shadow: 1px 1px 1px rgba(0,0,0,.3);
-  border-radius: 5px;
+  margin: 1rem;
 }
 
 .memory-card:active {
   transform: scale(0.97);
-  transition: transform .2s;
+  transition: transform 0.2s;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
 }
 
 .memory-card.flip {
   transform: rotateY(360deg);
 }
 
-.img-card,
-.name-card,
-.back-card{
-  width: 100%;
-  height: 100%;
-  padding: 20px;
-  position: absolute;
-  border-radius: 5px;
-  background: #78638f;
-}
-
 .name-card {
   text-align: center;
-  color: #C8BCD1;
+  color: #c8bcd1;
   font-size: 1.5em;
 }
 .matched img,
-.matched span{
-  background: #5C3A78 !important;
+.matched span {
+  background: #5c3a78 !important;
 }
 
+.parent {
+  max-width: 90vh;
+  height: 100%;
+  margin: auto;
+  display: grid;
+  grid-column-gap: 1rem;
+  grid-row-gap: 1rem;
+  justify-content: center;
+  align-items: center;
+}
+.square {
+  border-radius: 5px;
+  position: relative;
+  border: 1rem solid #78638f;
+  box-sizing: border-box;
+  width: 100%;
+  border-radius: 0.5em;
+  background: #5c3a78 !important;
+}
+
+.square:after {
+  content: "";
+  display: block;
+  padding-bottom: 100%;
+}
+
+.content {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  color: #c8bcd1;
+  font-size: 1.5em;
+  background-color: #78638f;
+}

@@ -2,7 +2,7 @@
   "name": "reactmatchinggame",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://knollfear.github.io/ReactMatchingGame/",
+  "homepage": "https://knollfear.github.io/ReactMatchingGame/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.1.1",
