@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ReactMatchingGame/precache-manifest.319d8e9f04931eeb95e1ea85d03b7b4b.js"
+  "/ReactMatchingGame/precache-manifest.b98320893b2dd4faa1a47b3c852964e7.js"
 );
 
 self.addEventListener('message', (event) => {
