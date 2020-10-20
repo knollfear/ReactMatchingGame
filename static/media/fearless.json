@@ -2,6 +2,18 @@
   "backImage":"img/fearless.png",
   "cards":[
     {
+      "displayName":"Johnson Addy",
+      "firstName":"Johnson",
+      "lastName":"Addy",
+      "preferredName":"",
+      "jobTitle":"DevOps Engineer II",
+      "location":"Fearless HQ",
+      "division":"Engineering Herd",
+      "photoUrl":"img/40685.jpg",
+      "img":"img/40685.jpg",
+      "txt":"Johnson Addy"
+    },
+    {
       "displayName":"Michelle Adekolu",
       "firstName":"Michelle",
       "lastName":"Adekolu",
@@ -12,7 +24,6 @@
       "photoUrl":"img/40676.jpg",
       "img":"img/40676.jpg",
       "txt":"Michelle Adekolu"
-
     },
     {
       "displayName":"Jesse Alton",
@@ -25,7 +36,18 @@
       "photoUrl":"img/40674.jpg",
       "img":"img/40674.jpg",
       "txt":"Jesse Alton"
-
+    },
+    {
+      "displayName":"Britt Arnett",
+      "firstName":"Britt",
+      "lastName":"Arnett",
+      "preferredName":"",
+      "jobTitle":"Scrum Master II",
+      "location":"Fearless HQ",
+      "division":"Delivery Herd",
+      "photoUrl":"img/40692.jpg",
+      "img":"img/40692.jpg",
+      "txt":"Britt Arnett"
     },
     {
       "displayName":"Richard Awojoodu",
@@ -38,20 +60,18 @@
       "photoUrl":"img/40623.jpg",
       "img":"img/40623.jpg",
       "txt":"Richie Awojoodu"
-
     },
     {
       "displayName":"Adam Ayd",
       "firstName":"Adam",
       "lastName":"Ayd",
-      "preferredName":"Adam",
+      "preferredName":"",
       "jobTitle":"Software Engineer II",
       "location":"Fearless HQ",
       "division":"Engineering Herd",
       "photoUrl":"img/40670.jpg",
       "img":"img/40670.jpg",
       "txt":"Adam Ayd"
-
     },
     {
       "displayName":"Stephanie Baggage",
@@ -64,7 +84,6 @@
       "photoUrl":"img/40558.jpg",
       "img":"img/40558.jpg",
       "txt":"Steph Baggage"
-
     },
     {
       "displayName":"Harold Baines",
@@ -77,7 +96,6 @@
       "photoUrl":"img/40626.jpg",
       "img":"img/40626.jpg",
       "txt":"Harold Baines"
-
     },
     {
       "displayName":"Annie Barrow",
@@ -90,7 +108,6 @@
       "photoUrl":"img/40549.jpg",
       "img":"img/40549.jpg",
       "txt":"Annie Barrow"
-
     },
     {
       "displayName":"Arlene Barrow",
@@ -103,7 +120,18 @@
       "photoUrl":"img/40568.jpg",
       "img":"img/40568.jpg",
       "txt":"Arlene Barrow"
-
+    },
+    {
+      "displayName":"Amanda Beall",
+      "firstName":"Amanda",
+      "lastName":"Beall",
+      "preferredName":"",
+      "jobTitle":"UX Designer II",
+      "location":"Fearless HQ",
+      "division":"Design Herd",
+      "photoUrl":"img/40593.jpg",
+      "img":"img/40593.jpg",
+      "txt":"Amanda Beall"
     },
     {
       "displayName":"Jacques Benter",
@@ -116,20 +144,18 @@
       "photoUrl":"img/40661.jpg",
       "img":"img/40661.jpg",
       "txt":"Jacques Benter"
-
     },
     {
-      "displayName":"Tyler Bolchoz",
+      "displayName":"Tyler Bolt",
       "firstName":"Tyler",
-      "lastName":"Bolchoz",
+      "lastName":"Bolt",
       "preferredName":"",
       "jobTitle":"Product Designer II",
       "location":"Fearless HQ",
       "division":"Design Herd",
       "photoUrl":"img/40552.jpg",
       "img":"img/40552.jpg",
-      "txt":"Tyler Bolchoz"
-
+      "txt":"Tyler Bolt"
     },
     {
       "displayName":"Alexander Bradley",
@@ -142,7 +168,6 @@
       "photoUrl":"img/40603.jpg",
       "img":"img/40603.jpg",
       "txt":"Alex Bradley"
-
     },
     {
       "displayName":"Clare Branham",
@@ -155,20 +180,6 @@
       "photoUrl":"img/40533.jpg",
       "img":"img/40533.jpg",
       "txt":"Clare Branham"
-
-    },
-    {
-      "displayName":"Aaron Brooks",
-      "firstName":"Aaron",
-      "lastName":"Brooks",
-      "preferredName":"",
-      "jobTitle":"DevOps Engineer III",
-      "location":"Fearless HQ",
-      "division":"Engineering Herd",
-      "photoUrl":"img/40561.jpg",
-      "img":"img/40561.jpg",
-      "txt":"Aaron Brooks"
-
     },
     {
       "displayName":"William Brooks",
@@ -181,20 +192,6 @@
       "photoUrl":"img/40625.jpg",
       "img":"img/40625.jpg",
       "txt":"Bill Brooks"
-
-    },
-    {
-      "displayName":"Christopher Broome",
-      "firstName":"Christopher",
-      "lastName":"Broome",
-      "preferredName":"",
-      "jobTitle":"Software Engineer II",
-      "location":"Fearless HQ",
-      "division":"Engineering Herd",
-      "photoUrl":"img/40675.jpg",
-      "img":"img/40675.jpg",
-      "txt":"Christopher Broome"
-
     },
     {
       "displayName":"Christopher Brune",
@@ -207,7 +204,6 @@
       "photoUrl":"img/40682.jpg",
       "img":"img/40682.jpg",
       "txt":"Christopher Brune"
-
     },
     {
       "displayName":"Charles Bushong",
@@ -220,7 +216,6 @@
       "photoUrl":"img/40529.jpg",
       "img":"img/40529.jpg",
       "txt":"Charles Bushong"
-
     },
     {
       "displayName":"Meghan Butler",
@@ -233,7 +228,6 @@
       "photoUrl":"img/40559.jpg",
       "img":"img/40559.jpg",
       "txt":"Meghan Butler"
-
     },
     {
       "displayName":"Julia Cessna",
@@ -246,7 +240,6 @@
       "photoUrl":"img/40663.jpg",
       "img":"img/40663.jpg",
       "txt":"Julia Cessna"
-
     },
     {
       "displayName":"Jeffrey Corpuz",
@@ -259,7 +252,30 @@
       "photoUrl":"img/40662.jpg",
       "img":"img/40662.jpg",
       "txt":"Jeff Corpuz"
-
+    },
+    {
+      "displayName":"Mirella Cortez",
+      "firstName":"Mirella",
+      "lastName":"Cortez",
+      "preferredName":"",
+      "jobTitle":"Technical Recruiter",
+      "location":"Fearless HQ",
+      "division":"People Ops",
+      "photoUrl":"img/40696.jpg",
+      "img":"img/40696.jpg",
+      "txt":"Mirella Cortez"
+    },
+    {
+      "displayName":"Purple Cow",
+      "firstName":"Purple",
+      "lastName":"Cow",
+      "preferredName":"",
+      "jobTitle":"",
+      "location":"",
+      "division":"",
+      "photoUrl":"img/40704.jpg",
+      "img":"img/40704.jpg",
+      "txt":"Purple Cow"
     },
     {
       "displayName":"Richard Davis",
@@ -272,7 +288,6 @@
       "photoUrl":"img/40601.jpg",
       "img":"img/40601.jpg",
       "txt":"Richard Davis"
-
     },
     {
       "displayName":"Alejandro de los Reyes",
@@ -285,7 +300,6 @@
       "photoUrl":"img/40563.jpg",
       "img":"img/40563.jpg",
       "txt":"Alex de los Reyes"
-
     },
     {
       "displayName":"Purvi Desai",
@@ -298,7 +312,6 @@
       "photoUrl":"img/40658.jpg",
       "img":"img/40658.jpg",
       "txt":"Purvi Desai"
-
     },
     {
       "displayName":"Amy DiPasquale",
@@ -311,7 +324,6 @@
       "photoUrl":"img/40604.jpg",
       "img":"img/40604.jpg",
       "txt":"Amy DiPasquale"
-
     },
     {
       "displayName":"Philip Dominguez",
@@ -324,7 +336,6 @@
       "photoUrl":"img/40609.jpg",
       "img":"img/40609.jpg",
       "txt":"Phil Dominguez"
-
     },
     {
       "displayName":"Shonta Downes",
@@ -337,7 +348,6 @@
       "photoUrl":"img/40666.jpg",
       "img":"img/40666.jpg",
       "txt":"Shonta Downes"
-
     },
     {
       "displayName":"Laura Dress",
@@ -350,7 +360,6 @@
       "photoUrl":"img/40587.jpg",
       "img":"img/40587.jpg",
       "txt":"Laura Dress"
-
     },
     {
       "displayName":"Delali Dzirasa",
@@ -363,7 +372,6 @@
       "photoUrl":"img/40525.jpg",
       "img":"img/40525.jpg",
       "txt":"Delali Dzirasa"
-
     },
     {
       "displayName":"Parissa Eggleston",
@@ -376,20 +384,18 @@
       "photoUrl":"img/40595.jpg",
       "img":"img/40595.jpg",
       "txt":"Parissa Eggleston"
-
     },
     {
       "displayName":"Cary Euwer",
       "firstName":"Cary",
       "lastName":"Euwer",
       "preferredName":"",
-      "jobTitle":"Design Researcher II",
+      "jobTitle":"Design Researcher III",
       "location":"Fearless HQ",
       "division":"Design Herd",
       "photoUrl":"img/40659.jpg",
       "img":"img/40659.jpg",
       "txt":"Cary Euwer"
-
     },
     {
       "displayName":"Janet Evans",
@@ -402,33 +408,18 @@
       "photoUrl":"img/40627.jpg",
       "img":"img/40627.jpg",
       "txt":"Janet Evans"
-
     },
     {
       "displayName":"Tejumade Famodu",
       "firstName":"Tejumade",
       "lastName":"Famodu",
       "preferredName":"TJ",
-      "jobTitle":"DevOps Engineer II",
+      "jobTitle":"Engineering Technical Advisor",
       "location":"Fearless HQ",
-      "division":"Engineering Herd",
+      "division":"Business Development",
       "photoUrl":"img/40599.jpg",
       "img":"img/40599.jpg",
       "txt":"TJ Famodu"
-
-    },
-    {
-      "displayName":"Katherine Faulkner",
-      "firstName":"Katherine",
-      "lastName":"Faulkner",
-      "preferredName":"Kate",
-      "jobTitle":"Director of People Operations",
-      "location":"Fearless HQ",
-      "division":"People Ops",
-      "photoUrl":"img/40634.jpg",
-      "img":"img/40634.jpg",
-      "txt":"Kate Faulkner"
-
     },
     {
       "displayName":"Julia Fink",
@@ -441,7 +432,6 @@
       "photoUrl":"img/40656.jpg",
       "img":"img/40656.jpg",
       "txt":"Julia Fink"
-
     },
     {
       "displayName":"Robert Fink",
@@ -454,20 +444,18 @@
       "photoUrl":"img/40567.jpg",
       "img":"img/40567.jpg",
       "txt":"Robert Fink"
-
     },
     {
       "displayName":"Tiffany Forkner",
       "firstName":"Tiffany",
       "lastName":"Forkner",
-      "preferredName":"",
+      "preferredName":"Tif",
       "jobTitle":"Software Engineer III",
       "location":"Fearless HQ",
       "division":"Engineering Herd",
       "photoUrl":"img/40540.jpg",
       "img":"img/40540.jpg",
-      "txt":"Tiffany Forkner"
-
+      "txt":"Tif Forkner"
     },
     {
       "displayName":"John Foster",
@@ -480,7 +468,18 @@
       "photoUrl":"img/40527.jpg",
       "img":"img/40527.jpg",
       "txt":"John Foster"
-
+    },
+    {
+      "displayName":"David Gage",
+      "firstName":"David",
+      "lastName":"Gage",
+      "preferredName":"",
+      "jobTitle":"Software Engineer III",
+      "location":"Fearless HQ",
+      "division":"Engineering Herd",
+      "photoUrl":"img/40698.jpg",
+      "img":"img/40698.jpg",
+      "txt":"David Gage"
     },
     {
       "displayName":"Christopher Gaines",
@@ -493,7 +492,6 @@
       "photoUrl":"img/40651.jpg",
       "img":"img/40651.jpg",
       "txt":"Chris Gaines"
-
     },
     {
       "displayName":"Ryan Ganser",
@@ -506,20 +504,30 @@
       "photoUrl":"img/40621.jpg",
       "img":"img/40621.jpg",
       "txt":"Ryan Ganser"
-
     },
     {
       "displayName":"Felix Gilbert",
       "firstName":"Felix",
       "lastName":"Gilbert",
       "preferredName":"",
-      "jobTitle":"Scrum Master II",
+      "jobTitle":"Product Designer II",
       "location":"Fearless HQ",
-      "division":"Delivery Herd",
+      "division":"Design Herd",
       "photoUrl":"img/40551.jpg",
       "img":"img/40551.jpg",
       "txt":"Felix Gilbert"
-
+    },
+    {
+      "displayName":"Megan Gileza",
+      "firstName":"Megan",
+      "lastName":"Gileza",
+      "preferredName":"",
+      "jobTitle":"UX Designer II",
+      "location":"Fearless HQ",
+      "division":"Design Herd",
+      "photoUrl":"img/40702.jpg",
+      "img":"img/40702.jpg",
+      "txt":"Megan Gileza"
     },
     {
       "displayName":"Greg Godbout",
@@ -532,7 +540,6 @@
       "photoUrl":"img/40638.jpg",
       "img":"img/40638.jpg",
       "txt":"Greg Godbout"
-
     },
     {
       "displayName":"Sarah Graber",
@@ -545,7 +552,6 @@
       "photoUrl":"img/40608.jpg",
       "img":"img/40608.jpg",
       "txt":"Sarah Graber"
-
     },
     {
       "displayName":"Jewel Green",
@@ -558,20 +564,6 @@
       "photoUrl":"img/40683.jpg",
       "img":"img/40683.jpg",
       "txt":"Jewel Green"
-
-    },
-    {
-      "displayName":"Rachel Grossman",
-      "firstName":"Rachel",
-      "lastName":"Grossman",
-      "preferredName":"Rachel",
-      "jobTitle":"UX Designer II",
-      "location":"Fearless HQ",
-      "division":"Design Herd",
-      "photoUrl":"img/40679.jpg",
-      "img":"img/40679.jpg",
-      "txt":"Rachel Grossman"
-
     },
     {
       "displayName":"Marisa Grotte",
@@ -584,7 +576,6 @@
       "photoUrl":"img/40672.jpg",
       "img":"img/40672.jpg",
       "txt":"Marisa Grotte"
-
     },
     {
       "displayName":"Bethany Halteman",
@@ -597,7 +588,6 @@
       "photoUrl":"img/40531.jpg",
       "img":"img/40531.jpg",
       "txt":"Bethany Halteman"
-
     },
     {
       "displayName":"Daedriana Harvey",
@@ -610,7 +600,6 @@
       "photoUrl":"img/40647.jpg",
       "img":"img/40647.jpg",
       "txt":"Dae Harvey"
-
     },
     {
       "displayName":"Ryan Hemminger",
@@ -623,7 +612,6 @@
       "photoUrl":"img/40577.jpg",
       "img":"img/40577.jpg",
       "txt":"Ryan Hemminger"
-
     },
     {
       "displayName":"Leah Hill",
@@ -636,7 +624,18 @@
       "photoUrl":"img/40642.jpg",
       "img":"img/40642.jpg",
       "txt":"Leah Hill"
-
+    },
+    {
+      "displayName":"Rashik Hyder",
+      "firstName":"Rashik",
+      "lastName":"Hyder",
+      "preferredName":"",
+      "jobTitle":"Product Designer II",
+      "location":"Fearless HQ",
+      "division":"Design Herd",
+      "photoUrl":"img/40697.jpg",
+      "img":"img/40697.jpg",
+      "txt":"Rashik Hyder"
     },
     {
       "displayName":"Yetunde Ibitoye",
@@ -649,7 +648,6 @@
       "photoUrl":"img/40619.jpg",
       "img":"img/40619.jpg",
       "txt":"Yetty Ibitoye"
-
     },
     {
       "displayName":"Opeyemi Ifekoya",
@@ -662,7 +660,6 @@
       "photoUrl":"img/40667.jpg",
       "img":"img/40667.jpg",
       "txt":"Opeyemi Ifekoya"
-
     },
     {
       "displayName":"Jilene Jackson",
@@ -675,7 +672,6 @@
       "photoUrl":"img/40643.jpg",
       "img":"img/40643.jpg",
       "txt":"Jilene Jackson"
-
     },
     {
       "displayName":"Marques Jackson",
@@ -688,7 +684,6 @@
       "photoUrl":"img/40653.jpg",
       "img":"img/40653.jpg",
       "txt":"Marques Jackson"
-
     },
     {
       "displayName":"Paul Jackson",
@@ -701,7 +696,6 @@
       "photoUrl":"img/40616.jpg",
       "img":"img/40616.jpg",
       "txt":"Paul Jackson"
-
     },
     {
       "displayName":"Jesse James",
@@ -714,7 +708,6 @@
       "photoUrl":"img/40669.jpg",
       "img":"img/40669.jpg",
       "txt":"Jesse James"
-
     },
     {
       "displayName":"Eric Jorgenson",
@@ -727,7 +720,6 @@
       "photoUrl":"img/40596.jpg",
       "img":"img/40596.jpg",
       "txt":"Matt Jorgenson"
-
     },
     {
       "displayName":"Patrick Kelsh",
@@ -740,7 +732,6 @@
       "photoUrl":"img/40566.jpg",
       "img":"img/40566.jpg",
       "txt":"Pat Kelsh"
-
     },
     {
       "displayName":"Jonathan King",
@@ -749,11 +740,10 @@
       "preferredName":"",
       "jobTitle":"Engineering Coach",
       "location":"Fearless HQ",
-      "division":"Engineering Herd",
+      "division":"People Ops",
       "photoUrl":"img/40530.jpg",
       "img":"img/40530.jpg",
       "txt":"Jonathan King"
-
     },
     {
       "displayName":"Michael Knoll",
@@ -766,7 +756,6 @@
       "photoUrl":"img/40589.jpg",
       "img":"img/40589.jpg",
       "txt":"Michael Knoll"
-
     },
     {
       "displayName":"Kimberly Korenstra",
@@ -779,7 +768,6 @@
       "photoUrl":"img/40630.jpg",
       "img":"img/40630.jpg",
       "txt":"Kim Korenstra"
-
     },
     {
       "displayName":"Kelsey Krach",
@@ -792,7 +780,6 @@
       "photoUrl":"img/40584.jpg",
       "img":"img/40584.jpg",
       "txt":"Kelsey Krach"
-
     },
     {
       "displayName":"Amber Kyler",
@@ -805,7 +792,18 @@
       "photoUrl":"img/40526.jpg",
       "img":"img/40526.jpg",
       "txt":"Amber Kyler"
-
+    },
+    {
+      "displayName":"Kate Large",
+      "firstName":"Kate",
+      "lastName":"Large",
+      "preferredName":"",
+      "jobTitle":"Director of People Operations",
+      "location":"Fearless HQ",
+      "division":"People Ops",
+      "photoUrl":"img/40700.jpg",
+      "img":"img/40700.jpg",
+      "txt":"Kate Large"
     },
     {
       "displayName":"Anneliese LaTempa",
@@ -818,7 +816,30 @@
       "photoUrl":"img/40640.jpg",
       "img":"img/40640.jpg",
       "txt":"Anneliese LaTempa"
-
+    },
+    {
+      "displayName":"Erika Lee",
+      "firstName":"Erika",
+      "lastName":"Lee",
+      "preferredName":"Gray",
+      "jobTitle":"Product Designer II",
+      "location":"Fearless HQ",
+      "division":"Design Herd",
+      "photoUrl":"img/40699.jpg",
+      "img":"img/40699.jpg",
+      "txt":"Gray Lee"
+    },
+    {
+      "displayName":"Seong Lee",
+      "firstName":"Seong",
+      "lastName":"Lee",
+      "preferredName":"",
+      "jobTitle":"Software Engineer I",
+      "location":"Fearless HQ",
+      "division":"Engineering Herd",
+      "photoUrl":"img/40695.jpg",
+      "img":"img/40695.jpg",
+      "txt":"Seong Lee"
     },
     {
       "displayName":"Vera Livshin",
@@ -831,7 +852,6 @@
       "photoUrl":"img/40644.jpg",
       "img":"img/40644.jpg",
       "txt":"Vera Livshin"
-
     },
     {
       "displayName":"Jerria Lowery",
@@ -844,7 +864,6 @@
       "photoUrl":"img/40614.jpg",
       "img":"img/40614.jpg",
       "txt":"Jerria Lowery"
-
     },
     {
       "displayName":"John Machovec",
@@ -857,7 +876,6 @@
       "photoUrl":"img/40673.jpg",
       "img":"img/40673.jpg",
       "txt":"John Machovec"
-
     },
     {
       "displayName":"Wayne MacKenzie",
@@ -870,7 +888,6 @@
       "photoUrl":"img/40620.jpg",
       "img":"img/40620.jpg",
       "txt":"Wayne MacKenzie"
-
     },
     {
       "displayName":"Stephen Malm",
@@ -879,37 +896,22 @@
       "preferredName":"Steve",
       "jobTitle":"Business Analyst",
       "location":"Fearless HQ",
-      "division":"None",
+      "division":"Engineering Herd",
       "photoUrl":"img/40680.jpg",
       "img":"img/40680.jpg",
       "txt":"Steve Malm"
-
-    },
-    {
-      "displayName":"Amanda Mancuso",
-      "firstName":"Amanda",
-      "lastName":"Mancuso",
-      "preferredName":"",
-      "jobTitle":"UX Designer II",
-      "location":"Fearless HQ",
-      "division":"Design Herd",
-      "photoUrl":"img/40593.jpg",
-      "img":"img/40593.jpg",
-      "txt":"Amanda Mancuso"
-
     },
     {
       "displayName":"Alex Mathews",
       "firstName":"Alex",
       "lastName":"Mathews",
       "preferredName":"",
-      "jobTitle":"Engineering Coach",
+      "jobTitle":"Software Engineer II",
       "location":"Fearless HQ",
       "division":"Engineering Herd",
       "photoUrl":"img/40606.jpg",
       "img":"img/40606.jpg",
       "txt":"Alex Mathews"
-
     },
     {
       "displayName":"LeAnne Matlach",
@@ -922,7 +924,18 @@
       "photoUrl":"img/40652.jpg",
       "img":"img/40652.jpg",
       "txt":"LeAnne Matlach"
-
+    },
+    {
+      "displayName":"John Maxwell",
+      "firstName":"John",
+      "lastName":"Maxwell",
+      "preferredName":"John (or jmax)",
+      "jobTitle":"Software Engineer II",
+      "location":"Fearless HQ",
+      "division":"Engineering Herd",
+      "photoUrl":"img/40686.jpg",
+      "img":"img/40686.jpg",
+      "txt":"John (or jmax) Maxwell"
     },
     {
       "displayName":"Kendra McCarthy",
@@ -935,7 +948,6 @@
       "photoUrl":"img/40600.jpg",
       "img":"img/40600.jpg",
       "txt":"Kendra McCarthy"
-
     },
     {
       "displayName":"Azhar Mian",
@@ -948,7 +960,30 @@
       "photoUrl":"img/40583.jpg",
       "img":"img/40583.jpg",
       "txt":"Azhar Mian"
-
+    },
+    {
+      "displayName":"Nerissa Monton",
+      "firstName":"Nerissa",
+      "lastName":"Monton",
+      "preferredName":"",
+      "jobTitle":"Product Designer II",
+      "location":"Fearless HQ",
+      "division":"Design Herd",
+      "photoUrl":"img/40687.jpg",
+      "img":"img/40687.jpg",
+      "txt":"Nerissa Monton"
+    },
+    {
+      "displayName":"Rafiq Muntaqim",
+      "firstName":"Rafiq",
+      "lastName":"Muntaqim",
+      "preferredName":"",
+      "jobTitle":"Software Engineer II",
+      "location":"Fearless HQ",
+      "division":"Engineering Herd",
+      "photoUrl":"img/40693.jpg",
+      "img":"img/40693.jpg",
+      "txt":"Rafiq Muntaqim"
     },
     {
       "displayName":"Bryant Noel",
@@ -961,20 +996,18 @@
       "photoUrl":"img/40646.jpg",
       "img":"img/40646.jpg",
       "txt":"Bryant Noel"
-
     },
     {
-      "displayName":"Chinonyerem Olumba",
-      "firstName":"Chinonyerem",
-      "lastName":"Olumba",
-      "preferredName":"Chino",
-      "jobTitle":"DevOps Engineer I",
+      "displayName":"Afu Omeze",
+      "firstName":"Afu",
+      "lastName":"Omeze",
+      "preferredName":"",
+      "jobTitle":"Scrum Master II",
       "location":"Fearless HQ",
-      "division":"Engineering Herd",
-      "photoUrl":"img/40671.jpg",
-      "img":"img/40671.jpg",
-      "txt":"Chino Olumba"
-
+      "division":"Delivery Herd",
+      "photoUrl":"img/40689.jpg",
+      "img":"img/40689.jpg",
+      "txt":"Afu Omeze"
     },
     {
       "displayName":"Gabriel Pendleton",
@@ -987,20 +1020,18 @@
       "photoUrl":"img/40677.jpg",
       "img":"img/40677.jpg",
       "txt":"Gabriel Pendleton"
-
     },
     {
       "displayName":"Rachel Petrucci",
       "firstName":"Rachel",
       "lastName":"Petrucci",
       "preferredName":"",
-      "jobTitle":"Product Designer II",
+      "jobTitle":"Design Coach",
       "location":"Fearless HQ",
       "division":"Design Herd",
       "photoUrl":"img/40550.jpg",
       "img":"img/40550.jpg",
       "txt":"Rachel Petrucci"
-
     },
     {
       "displayName":"Paul Phillips",
@@ -1013,7 +1044,6 @@
       "photoUrl":"img/40648.jpg",
       "img":"img/40648.jpg",
       "txt":"Paul Phillips"
-
     },
     {
       "displayName":"Meghan Phipps",
@@ -1026,20 +1056,30 @@
       "photoUrl":"img/40665.jpg",
       "img":"img/40665.jpg",
       "txt":"Meghan Phipps"
-
+    },
+    {
+      "displayName":"Amy Pointer",
+      "firstName":"Amy",
+      "lastName":"Pointer",
+      "preferredName":"",
+      "jobTitle":"Design Researcher III",
+      "location":"Fearless HQ",
+      "division":"Design Herd",
+      "photoUrl":"img/40703.jpg",
+      "img":"img/40703.jpg",
+      "txt":"Amy Pointer"
     },
     {
       "displayName":"Douglas Price",
       "firstName":"Douglas",
       "lastName":"Price",
-      "preferredName":"",
+      "preferredName":"Doug",
       "jobTitle":"Software Engineer III",
       "location":"Fearless HQ",
       "division":"Engineering Herd",
       "photoUrl":"img/40553.jpg",
       "img":"img/40553.jpg",
-      "txt":"Douglas Price"
-
+      "txt":"Doug Price"
     },
     {
       "displayName":"John Priest",
@@ -1052,7 +1092,18 @@
       "photoUrl":"img/40570.jpg",
       "img":"img/40570.jpg",
       "txt":"John Priest"
-
+    },
+    {
+      "displayName":"Thomas Reed",
+      "firstName":"Thomas",
+      "lastName":"Reed",
+      "preferredName":"Aaron",
+      "jobTitle":"DevOps Engineer II",
+      "location":"Fearless HQ",
+      "division":"Engineering Herd",
+      "photoUrl":"img/40691.jpg",
+      "img":"img/40691.jpg",
+      "txt":"Aaron Reed"
     },
     {
       "displayName":"Abbey Salvo",
@@ -1065,7 +1116,6 @@
       "photoUrl":"img/40650.jpg",
       "img":"img/40650.jpg",
       "txt":"Abbey Salvo"
-
     },
     {
       "displayName":"Luke Samuels",
@@ -1078,7 +1128,6 @@
       "photoUrl":"img/40594.jpg",
       "img":"img/40594.jpg",
       "txt":"Luke Samuels"
-
     },
     {
       "displayName":"Laura Semesky",
@@ -1091,7 +1140,6 @@
       "photoUrl":"img/40555.jpg",
       "img":"img/40555.jpg",
       "txt":"Laura Semesky"
-
     },
     {
       "displayName":"Andrew Shapiro",
@@ -1104,7 +1152,6 @@
       "photoUrl":"img/40639.jpg",
       "img":"img/40639.jpg",
       "txt":"Sasha Shapiro"
-
     },
     {
       "displayName":"Shannon Shepherd",
@@ -1117,7 +1164,18 @@
       "photoUrl":"img/40565.jpg",
       "img":"img/40565.jpg",
       "txt":"Shannon Shepherd"
-
+    },
+    {
+      "displayName":"David Simeon",
+      "firstName":"David",
+      "lastName":"Simeon",
+      "preferredName":"",
+      "jobTitle":"Portfolio Manager",
+      "location":"Fearless HQ",
+      "division":"Programs",
+      "photoUrl":"img/40688.jpg",
+      "img":"img/40688.jpg",
+      "txt":"David Simeon"
     },
     {
       "displayName":"Kelly Slaughter",
@@ -1130,7 +1188,6 @@
       "photoUrl":"img/40602.jpg",
       "img":"img/40602.jpg",
       "txt":"Kelly Slaughter"
-
     },
     {
       "displayName":"Jason Smigovsky",
@@ -1143,20 +1200,18 @@
       "photoUrl":"img/40575.jpg",
       "img":"img/40575.jpg",
       "txt":"Jason Smigovsky"
-
     },
     {
       "displayName":"Rebecca Spencer-Strong",
       "firstName":"Rebecca",
       "lastName":"Spencer-Strong",
-      "preferredName":"Becky",
+      "preferredName":"Beck",
       "jobTitle":"Data Science Engineer",
       "location":"Fearless HQ",
       "division":"Engineering Herd",
       "photoUrl":"img/40615.jpg",
       "img":"img/40615.jpg",
-      "txt":"Becky Spencer-Strong"
-
+      "txt":"Beck Spencer-Strong"
     },
     {
       "displayName":"Gavin St. Ours",
@@ -1169,7 +1224,6 @@
       "photoUrl":"img/40631.jpg",
       "img":"img/40631.jpg",
       "txt":"Gavin St. Ours"
-
     },
     {
       "displayName":"Christian Strama",
@@ -1182,7 +1236,18 @@
       "photoUrl":"img/40586.jpg",
       "img":"img/40586.jpg",
       "txt":"Christian Strama"
-
+    },
+    {
+      "displayName":"Julie Stromberg",
+      "firstName":"Julie",
+      "lastName":"Stromberg",
+      "preferredName":"",
+      "jobTitle":"Content Strategist III",
+      "location":"",
+      "division":"Design Herd",
+      "photoUrl":"img/40701.jpg",
+      "img":"img/40701.jpg",
+      "txt":"Julie Stromberg"
     },
     {
       "displayName":"Lexi Talbert",
@@ -1195,7 +1260,6 @@
       "photoUrl":"img/40632.jpg",
       "img":"img/40632.jpg",
       "txt":"Lexi Talbert"
-
     },
     {
       "displayName":"David Tisza",
@@ -1208,7 +1272,6 @@
       "photoUrl":"img/40578.jpg",
       "img":"img/40578.jpg",
       "txt":"Dave Tisza"
-
     },
     {
       "displayName":"Tracie Tracey",
@@ -1217,24 +1280,10 @@
       "preferredName":"",
       "jobTitle":"Business Analyst",
       "location":"Fearless HQ",
-      "division":"Design Herd",
+      "division":"Delivery Herd",
       "photoUrl":"img/40684.jpg",
       "img":"img/40684.jpg",
       "txt":"Tracie Tracey"
-
-    },
-    {
-      "displayName":"Joe Tseng",
-      "firstName":"Joe",
-      "lastName":"Tseng",
-      "preferredName":"",
-      "jobTitle":"Software Engineer I",
-      "location":"Fearless HQ",
-      "division":"Engineering Herd",
-      "photoUrl":"img/40585.jpg",
-      "img":"img/40585.jpg",
-      "txt":"Joe Tseng"
-
     },
     {
       "displayName":"Jarune Uwujaren",
@@ -1247,7 +1296,18 @@
       "photoUrl":"img/40617.jpg",
       "img":"img/40617.jpg",
       "txt":"Jarune Uwujaren"
-
+    },
+    {
+      "displayName":"Aaron Viscomi",
+      "firstName":"Aaron",
+      "lastName":"Viscomi",
+      "preferredName":"",
+      "jobTitle":"Product Designer II",
+      "location":"",
+      "division":"Design Herd",
+      "photoUrl":"img/40690.jpg",
+      "img":"img/40690.jpg",
+      "txt":"Aaron Viscomi"
     },
     {
       "displayName":"Jennifer Wagner",
@@ -1260,7 +1320,6 @@
       "photoUrl":"img/40581.jpg",
       "img":"img/40581.jpg",
       "txt":"Jenny Wagner"
-
     },
     {
       "displayName":"Rob Wainwright",
@@ -1273,7 +1332,6 @@
       "photoUrl":"img/40664.jpg",
       "img":"img/40664.jpg",
       "txt":"Rob Wainwright"
-
     },
     {
       "displayName":"Danielle Wales",
@@ -1286,7 +1344,6 @@
       "photoUrl":"img/40678.jpg",
       "img":"img/40678.jpg",
       "txt":"Danielle Wales"
-
     },
     {
       "displayName":"Virginia Walter",
@@ -1299,7 +1356,6 @@
       "photoUrl":"img/40618.jpg",
       "img":"img/40618.jpg",
       "txt":"Jenny Walter"
-
     },
     {
       "displayName":"Jordan Watts",
@@ -1312,7 +1368,6 @@
       "photoUrl":"img/40560.jpg",
       "img":"img/40560.jpg",
       "txt":"Jordan Watts"
-
     },
     {
       "displayName":"Tyler Webb",
@@ -1325,7 +1380,6 @@
       "photoUrl":"img/40611.jpg",
       "img":"img/40611.jpg",
       "txt":"Tyler Webb"
-
     },
     {
       "displayName":"Nichole Weems",
@@ -1338,7 +1392,6 @@
       "photoUrl":"img/40668.jpg",
       "img":"img/40668.jpg",
       "txt":"Nichole Weems"
-
     },
     {
       "displayName":"Alejandro Wibmer",
@@ -1351,7 +1404,6 @@
       "photoUrl":"img/40636.jpg",
       "img":"img/40636.jpg",
       "txt":"Alex Wibmer"
-
     },
     {
       "displayName":"Kevin Wilson",
@@ -1364,7 +1416,6 @@
       "photoUrl":"img/40654.jpg",
       "img":"img/40654.jpg",
       "txt":"Kevin Wilson"
-
     },
     {
       "displayName":"Beth Wingerd",
@@ -1377,7 +1428,6 @@
       "photoUrl":"img/40572.jpg",
       "img":"img/40572.jpg",
       "txt":"Beth Wingerd"
-
     },
     {
       "displayName":"Antoine Wright",
@@ -1390,7 +1440,6 @@
       "photoUrl":"img/40641.jpg",
       "img":"img/40641.jpg",
       "txt":"Antoine Wright"
-
     },
     {
       "displayName":"Justin Wuetcher",
@@ -1403,7 +1452,6 @@
       "photoUrl":"img/40655.jpg",
       "img":"img/40655.jpg",
       "txt":"Justin Wuetcher"
-
     },
     {
       "displayName":"Yosef Zidell",
@@ -1416,7 +1464,6 @@
       "photoUrl":"img/40622.jpg",
       "img":"img/40622.jpg",
       "txt":"Joe Zidell"
-
     },
     {
       "displayName":"Nicole Zonnenberg",
@@ -1429,8 +1476,6 @@
       "photoUrl":"img/40660.jpg",
       "img":"img/40660.jpg",
       "txt":"Nicole Zonnenberg"
-
     }
-
   ]
 }
